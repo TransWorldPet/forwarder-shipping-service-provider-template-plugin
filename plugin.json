@@ -1,6 +1,6 @@
 {
-    "name"              :   "ShippingServiceProviderTemplate",
-    "namespace"         :   "ShippingServiceProviderTemplate",
+    "name"              :   "ForwarderShippingServiceProviderTemplate",
+    "namespace"         :   "ForwarderShippingServiceProviderTemplate",
     "type"              :   "shipping",
     "version"           :   "1.0.1",
     "pluginIcon"        :   "icon_plugin_xs.png",
@@ -9,8 +9,8 @@
     "email"             :   "sales@plentymarkets.com",
     "phone"             :   "+49 561 98 681 100",
     "authorIcon"        :   "icon_author_xs.png",
-    "serviceProvider"   :   "ShippingServiceProviderTemplate\\Providers\\ServiceProvider",
+    "serviceProvider"   :   "ForwarderShippingServiceProviderTemplate\\Providers\\ServiceProvider",
     "runOnBuild": [
-        "ShippingServiceProviderTemplate\\Migrations\\CreateShippingServiceProvider"
+        "ForwarderShippingServiceProviderTemplate\\Migrations\\CreateShippingServiceProvider"
     ]
 }
