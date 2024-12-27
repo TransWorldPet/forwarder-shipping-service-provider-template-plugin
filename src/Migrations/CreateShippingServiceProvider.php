@@ -1,8 +1,8 @@
 <?php
 
-namespace ShippingServiceProviderTemplate\Migrations;
+namespace ForwarderShippingServiceProviderTemplate\Migrations;
 
-use ShippingServiceProviderTemplate\Helpers\ShippingServiceProvider;
+use ForwarderShippingServiceProviderTemplate\Helpers\ShippingServiceProvider;
 use Plenty\Modules\Order\Shipping\ServiceProvider\Contracts\ShippingServiceProviderRepositoryContract;
 use Plenty\Plugin\Log\Loggable;
 
