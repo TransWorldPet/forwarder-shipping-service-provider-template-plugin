@@ -1,10 +1,10 @@
 <?php
 
-namespace ShippingServiceProviderTemplate\Providers;
+namespace ForwarderShippingServiceProviderTemplate\Providers;
 
 use Plenty\Plugin\ServiceProvider as PlentyServiceProvider;
 use Plenty\Modules\Order\Shipping\ServiceProvider\Services\ShippingServiceProviderService;
-use ShippingServiceProviderTemplate\Helpers\ShippingServiceProvider;
+use ForwarderShippingServiceProviderTemplate\Helpers\ShippingServiceProvider;
 
 /**
  * Class ServiceProvider
@@ -33,7 +33,7 @@ class ServiceProvider extends PlentyServiceProvider
             ShippingServiceProvider::PLUGIN_NAME,
             ['de' => ShippingServiceProvider::SHIPPING_SERVICE_PROVIDER_NAME, 'en' => ShippingServiceProvider::SHIPPING_SERVICE_PROVIDER_NAME],
             [
-                'ShippingServiceProviderTemplate\\Controllers\\ShipmentController@getLabels',
+                'ForwarderShippingServiceProviderTemplate\\Controllers\\ShipmentController@getLabels',
             ]
         );
     }
