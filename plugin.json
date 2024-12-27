@@ -1,6 +1,6 @@
 {
-    "name"              :   "ShippingServiceProviderTemplate",
-    "namespace"         :   "ShippingServiceProviderTemplate",
+    "name"              :   "ForwarderShippingServiceProviderTemplate",
+    "namespace"         :   "ForwarderShippingServiceProviderTemplate",
     "type"              :   "shipping",
     "version"           :   "1.0.0",
     "pluginIcon"        :   "icon_plugin_xs.png",
