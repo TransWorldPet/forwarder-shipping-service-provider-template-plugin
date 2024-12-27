@@ -1,6 +1,6 @@
 <?php
 
-namespace ShippingServiceProviderTemplate\Providers;
+namespace ForwarderShippingServiceProviderTemplate\Providers;
 
 use Plenty\Plugin\RouteServiceProvider as PlentyRouteServiceProvider;
 use Plenty\Plugin\Routing\Router;
