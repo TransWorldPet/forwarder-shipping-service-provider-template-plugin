@@ -2,7 +2,7 @@
     "name"              :   "ShippingServiceProviderTemplate",
     "namespace"         :   "ShippingServiceProviderTemplate",
     "type"              :   "shipping",
-    "version"           :   "1.0.0",
+    "version"           :   "1.0.1",
     "pluginIcon"        :   "icon_plugin_xs.png",
     "description"       :   "Use this plugin to integrate the interface for multiple custom shipping service providers in your plentymarkets 7 system.",
     "author"            :   "plentysystems AG",
