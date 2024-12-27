@@ -1,6 +1,6 @@
 <?php
 
-namespace ShippingServiceProviderTemplate\Helpers;
+namespace ForwarderShippingServiceProviderTemplate\Helpers;
 
 /**
  * Class ShippingServiceProvider
