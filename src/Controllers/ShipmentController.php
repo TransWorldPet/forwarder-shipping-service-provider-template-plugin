@@ -1,6 +1,6 @@
 <?php
 
-namespace ShippingServiceProviderTemplate\Controllers;
+namespace ForwarderShippingServiceProviderTemplate\Controllers;
 
 use Plenty\Plugin\Controller;
 
