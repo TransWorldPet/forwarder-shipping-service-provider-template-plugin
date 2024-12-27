@@ -8,6 +8,6 @@ namespace ShippingServiceProviderTemplate\Helpers;
  */
 class ShippingServiceProvider
 {
-    const PLUGIN_NAME = "ShippingServiceProviderTemplate";
-    const SHIPPING_SERVICE_PROVIDER_NAME = "DACHSER SE";
+    const PLUGIN_NAME = "ForwarderShippingServiceProviderTemplate";
+    const SHIPPING_SERVICE_PROVIDER_NAME = "Cargoboard";
 }
